@@ -1,5 +1,8 @@
 # Complete Authentication Project
 
+
+> **Note**: Development of this project is ongoing. New features, updates, and improvements are being actively added
+
 This project implements a complete authentication system with separate backend and frontend folders. 
 
 ## Project Structure
